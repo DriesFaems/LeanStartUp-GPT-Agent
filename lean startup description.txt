@@ -1,0 +1,50 @@
+Input job to be done = monitoring and paying energy bills
+Input customer description = a family consisting of two adults and two children with average income who are renting anu apartment in a big city
+
+GPT output hardest part of job to be done = 
+
+The hardest part about monitoring and paying energy bills for a family of two adults and two children renting an apartment in a big city is trying to keep costs under control. Big city living is expensive, and energy costs can add up quickly. It is important to be aware of energy usage and find ways to conserve, such as using LED light bulbs, unplugging appliances when not in use, and using the most efficient appliances available. Additionally, it can be difficult to stay up to date with energy bills and make sure that payments are made on time to avoid late fees and penalties.
+
+GPT output value proposition = 
+
+Our startup offers a unique value proposition for families in a big city who are trying to manage their energy costs. Our platform will provide real-time monitoring and insights into energy usage, helping you to understand what you’re using and how you can save money. We’ll also make it easy to pay your energy bills on time, with automatic payments and reminders to help you stay on top of bills. Our platform is easy to use, and with our helpful tools and resources, you’ll be able to manage your energy costs with confidence.
+
+GPT output value proposition canvas = , key activities, channels, customer relationships, revenue streams and cost structure. 
+
+Customer Jobs: Families in a big city want to manage their energy costs without taking too much time or effort. 
+
+Customer Pains: Difficulty understanding energy usage and when bills are due, or how to save money on energy costs. 
+
+Customer Gains: Able to understand usage and save money on energy costs, knowing when bills are due and being able to pay them on time.
+
+Products and Services: Real-time monitoring and insights into energy usage, automatic payments and reminders to help pay bills on time, helpful tools and resources to manage energy costs.
+
+Pain Relievers: Real-time insights and monitoring, helpful tools and resources to understand and manage energy costs, automatic payments and reminders to pay bills on time.
+
+Gain Creators: The ability to understand usage and save money on energy costs, knowing when bills are due and being able to pay them on time.
+
+Key Activities: Developing user friendly platform, providing helpful tools and resources, creating automatic payment and reminder systems.
+
+Channels: Mobile App, website, social media and digital marketing.
+
+Customer Relationships: Automated and personalized customer service, and providing
+
+GPT output most similar competitors = 
+
+1. WattTime, Oakland, CA, https://watttime.org/
+2. ohmconnect, San Francisco, CA, https://www.ohmconnect.com/
+3. EnergyHub, New York, NY, https://energyhub.com/
+
+GPT output company description competitor 1 = WattTime is an environmental tech nonprofit that empowers all people, companies, policymakers, and countries to slash emissions and choose cleaner energy. The founders are Gavin McCormick, Danielle Fugere, and Alexander “Sandy” MacDonald.
+
+GPT output company description competitor 2 = OhmConnect's mission is to rally people to change how and when they use electricity to unlock clean, affordable and reliable energy. The founders of ohmconnect are Matt Duesterberg and Curtis Tongue.
+
+GPT output company description competitor 3 = EnergyHub Inc (EnergyHub), a subsidiary of Alarmcom Holdings Inc, is a technology-based company that offers cloud-based energy management software platform solutions. It provides turnkey demand response program services and energy management services to access energy usage information. The founders of EnergyHub are Seth and Matt.
+
+GPT output hypotheses = 
+
+Hypothesis 1: Families in a big city are willing to pay for a platform that provides real-time monitoring and insights into energy usage, helping them to understand what they’re using and how they can save money. 
+
+Hypothesis 2: Families in a big city prefer a mobile app as the primary channel for accessing the platform. 
+
+Hypothesis 3: The ultimate customer segment for this platform is families in big cities who are already actively seeking out energy saving solutions.
