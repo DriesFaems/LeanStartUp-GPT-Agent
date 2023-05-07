@@ -1,1 +1,1 @@
-# LeanStartUp-GPT-Agent
+# LeanStartUp-GPT-Agent: This agent allows you to automatically execute some basic steps of the Lean Startup approach (i.e. get customer input, develop value proposition, create value proposition canvas, identify most important competitors and formulate core hypotheses for testing). For execution of the python script you need an openai_api_key and a serp_api_key
